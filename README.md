@@ -1,1 +1,1 @@
-# US-Fast-Food-Restaurants-Market-Analysis-
+# Comprehensive Market Analysis of USA Fast Food Restaurants
