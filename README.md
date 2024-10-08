@@ -7,9 +7,9 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
 ### **Solution:**
 
 **1. Data Description**
-- Dataset of 10,000 fast food restaurants provided by Datafiniti's Business Database.
-- Data spans from 2014 to 2019 and includes details such as restaurant name, address, city, and geographical coordinates (latitude and longitude).
-- Dataset Source: Fast Food Restaurants Across America Dataset
+- Dataset of **10,000** fast food restaurants provided by Datafiniti's Business Database.
+- Data spans from **2014** to **2019** and includes details such as restaurant name, address, city, and geographical coordinates (latitude and longitude).
+- **Dataset Source:** [Fast Food Restaurants Across America Dataset](https://data.world/datafiniti/fast-food-restaurants-across-america)
 
 **2. Data Exploration & Cleaning**
 - Analyzed the dataset to uncover market trends and potential growth areas.
@@ -18,8 +18,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
 
 **3. Data Analysis:**
 - **How many fast food restaurants are recorded?**
-- Total Restaurants: 10,000
-- Unique Restaurants: 1,545
+- Total Restaurants: **10,000**
+- Unique Restaurants: **1,545**
 
 - **Which cities are crowded with fast food restaurants?**
 - Unique Cities: **2,810**
@@ -32,23 +32,23 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
 
 **5. Regional Analysis**
 - **Interactive Map Visualization 2:**
-- Visualized the presence of fast food restaurants at a regional level, with Georgia, Indiana, and Florida leading the way.
-- Split the market into 4 key regions for further analysis.
+- Visualized the presence of fast food restaurants at a regional level, with **Georgia, Indiana, and Florida** leading the way.
+- Split the market into **4** key regions for further analysis.
 
 **6. Regional Market Insights:**
 - **West Region:**
-- **California:** **32.4%** of the total restaurants.
-- **Washington & Oregon:** Combined **32.9%**.
+  - **California:** **32.4%** of the total restaurants.
+  - **Washington & Oregon:** Combined **32.9%**.
 - **South Region:**
-- **Florida:** **15.8%** of the total restaurants.
-- **North Carolina:** **14.2%**.
+  - **Florida:** **15.8%** of the total restaurants.
+  - **North Carolina:** **14.2%**.
 - **Northeast Region:**
-- **Pennsylvania:** **52.2%** of the total restaurants.
-- **New York:** **46.5%**.
+  - **Pennsylvania:** **52.2%** of the total restaurants.
+  - **New York:** **46.5%**.
 - **Midwest Region:**
-- **Ohio:** **34%** of the total restaurants.
-- **National Level Top 5 Markets:**
-- **Ohio** (**9.2%**), **Florida** (**7.3%**), **California** (**7.2%**), **North Carolina** (**6.6%**), and **Alabama** (**6.3%**).
+  - **Ohio:** **34%** of the total restaurants.
+  - **National Level Top 5 Markets:**
+  - **Ohio** (**9.2%**), **Florida** (**7.3%**), **California** (**7.2%**), **North Carolina** (**6.6%**), and **Alabama** (**6.3%**).
 
 **7. Brand Presence Analysis by Geography:**
 - **Interactive Aggregation Visualization 2:**
@@ -72,5 +72,18 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
 
 ### **Impact:**
 
+**1. Market Openness & Opportunities:**
+- **75.48%** of cities recorded in the dataset have fewer than **4** fast food restaurants, indicating significant potential for market entry and expansion.
+- Recommendation: Focus on states and cities with fewer restaurants (under 50 or 100) to reduce competition and capitalize on open market opportunities. For example, regions like **Wyoming**, **Montana**, and **North Dakota** remain largely untapped.
+
+**3. Key Regional Insights:**
+- **California, Florida, Ohio, and North Carolina** represent the most lucrative markets for fast food chains, with a large concentration of existing stores.
+- The **South** region stands out as the largest market with **46.7%** of restaurants, making it a highly competitive yet growth-oriented area for expansion.
+
+**4. Brand Penetration & Competitive Landscape:**
+- **Subway** holds the largest market share, with **31.6%** in the **Midwest** and over **28%** in other regions, demonstrating its dominance in the market.
+- **Burger King** and **McDonald’s** lead the **Northeast**, while **Taco Bell** has a stronger presence in the **West**. **Arby’s** and **Wendy’s** show growth potential in regions where their presence is currently limited.
+
 ### **Summary**
 
+The fast-food restaurant landscape in the **USA** is dominated by a few key players with significant regional strengths. The **South** and **Midwest** regions are the largest markets, with **Ohio**, **Florida**, and **California** emerging as the top states. Brands looking to expand should target untapped regions with fewer restaurants, while established brands must continue to innovate and differentiate their offerings to remain competitive. Market entry strategies such as expanding into less competitive states or leveraging regional strengths can provide a solid growth path for both new entrants and existing players.
