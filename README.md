@@ -1,4 +1,4 @@
-# Comprehensive Market Analysis of USA Fast Food Restaurants
+# Comprehensive Market Analysis of US Fast Food Restaurants
 
 ### **Problem:**
 
