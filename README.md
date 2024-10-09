@@ -69,9 +69,13 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - Analyzed market share by region.
   - **Observation:** The **South** accounts for **46.7%** of all fast food restaurants, making it the top region. **Northeast** has the smallest share with only **3.72%**.
 
+  ![r7](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r7.png)
+
 **8. Top Brands:**
 - **Interactive Aggregation Visualization 3:**
   - The top **7** brands dominating the market include **Subway**, **McDonald's**, **Taco Bell**, **KFC**, **Burger King**, **Wendy's**, and **Arby's**.
+
+  ![r8](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r8.png)
 
 - **Market Penetration Analysis:**
   - **Subway** leads with over **28%** penetration in the **South, Midwest, and West**, and **31.6%** in the **Midwest** alone.
