@@ -90,6 +90,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - **KFC** is missing from 4 states, including **Kentucky** itself, which is an interesting outlier.
   - **McDonald's** has strong markets in **Washington, D.C.**, **Hawaii**, and **Arizona**.
 
+  ![r10](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r10.png)
+
 ### **Impact:**
 
 **1. Market Openness & Opportunities:**
