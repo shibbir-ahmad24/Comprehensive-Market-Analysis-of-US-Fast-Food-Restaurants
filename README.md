@@ -32,9 +32,11 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   ![r2](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r2.png)
 
 **4. Market Opportunity Analysis**
-- **Map Visualization 1:**
+- **Interactive Map Visualization 1:**
   - Identified provinces with less than 100 and 50 restaurants to highlight areas for potential new store openings.
   - **Observation**: Regions with less than 50 or 100 restaurants represent relatively untapped markets, offering more opportunities with reduced competition from major players.
+
+  ![r3](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r3.png)
 
 **5. Regional Analysis**
 - **Interactive Map Visualization 2:**
