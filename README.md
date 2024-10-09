@@ -82,6 +82,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - **Burger King** has higher penetration in the **Northeast** after McDonald's and Subway.
   - **Taco Bell** has a strong presence in the **West**, while **Arby’s** has limited presence in the **West**.
 
+  ![r9](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r9.png)
+
 **9. State-Level Brand Analysis:**
 - **Interactive Aggregation Visualization 4:**
   - Key markets for each brand were identified. **Subway** is ubiquitous across regions, while **Wendy’s** is absent in states like **Wisconsin**, **South Dakota**, **Wyoming**, and **Hawaii**.
