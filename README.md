@@ -62,6 +62,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
 
   ![r5](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r5.png)
 
+  ![r6](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r6.png)
+
 **7. Brand Presence Analysis by Geography:**
 - **Interactive Aggregation Visualization 2:**
   - Analyzed market share by region.
