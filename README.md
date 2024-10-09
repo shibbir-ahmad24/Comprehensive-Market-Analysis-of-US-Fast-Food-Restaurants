@@ -25,6 +25,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - Unique Cities: **2,810**
   - Cities with less than 4 restaurants: **2,121** (**75.48%** of total cities)
 
+  ![r1](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r1.png)
+
 **4. Market Opportunity Analysis**
 - **Map Visualization 1:**
   - Identified provinces with less than 100 and 50 restaurants to highlight areas for potential new store openings.
