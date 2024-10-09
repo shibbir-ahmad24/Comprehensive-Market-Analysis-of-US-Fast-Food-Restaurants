@@ -43,6 +43,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - Visualized the presence of fast food restaurants at a regional level, with **Georgia, Indiana, and Florida** leading the way.
   - Split the market into **4** key regions for further analysis.
 
+  ![r4](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r4.png)
+
 **6. Regional Market Insights:**
 - **West Region:**
   - **California:** **32.4%** of the total restaurants.
@@ -57,6 +59,8 @@ The fast-food industry in the USA is highly competitive, with thousands of resta
   - **Ohio:** **34%** of the total restaurants.
   - **National Level Top 5 Markets:**
   - **Ohio** (**9.2%**), **Florida** (**7.3%**), **California** (**7.2%**), **North Carolina** (**6.6%**), and **Alabama** (**6.3%**).
+
+  ![r5](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r5.png)
 
 **7. Brand Presence Analysis by Geography:**
 - **Interactive Aggregation Visualization 2:**
